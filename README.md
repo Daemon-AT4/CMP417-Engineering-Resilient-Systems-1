@@ -28,6 +28,7 @@ These are labs that relate to what's covered in the module.
 
 ## How You Can Add to this Repo
 You can learn how to contribute here: https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project
+
 And you can learn how to do a pull request here: https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project
 ---
 
