@@ -25,8 +25,10 @@ These are labs that relate to what's covered in the module.
 > Aside from the few I found myself, I used AI to grab others across the internet. SOME LINKS are dead
 > HOWEVER, the module itself may still be up If you come across a dead link, search for it, as it may still be active. 
 > If you know how to use GitHub, you can submit a pull request with the links or additional content you find online. This can be a repo we all share and add to. 
+
+## How You Can Add to this Repo
 You can learn how to contribute here: https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project
-and you can learn how to do a pull request here: https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project
+And you can learn how to do a pull request here: https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project
 ---
 
 ### 1. Principles of Secure Software Development
